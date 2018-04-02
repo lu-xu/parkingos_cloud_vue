@@ -20,7 +20,7 @@ npm run build
 
 ### Browser Support
 
-Modern browsers and Internet Explorer 10+.
+Modern browsers and Internet Explorer 10+
 
 
 ### License
